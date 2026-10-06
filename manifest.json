@@ -1,0 +1,14 @@
+{
+  "project": "QuoteLens",
+  "category": "Corrugated packaging",
+  "vendors": 5,
+  "line_items": 30,
+  "sample_formats": [
+    "xlsx",
+    "docx",
+    "pdf",
+    "jpg",
+    "txt"
+  ],
+  "generated_at": "2026-09-26T18:54:44.362834"
+}
